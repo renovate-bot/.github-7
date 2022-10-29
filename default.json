@@ -2,6 +2,5 @@
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "description": "Renovate config for ScribeMD in the style of Dependabot",
   "extends": ["config:base"],
-  "dependencyDashboardApproval": true,
-  "prHourlyLimit": 0
+  "dependencyDashboardApproval": true
 }
