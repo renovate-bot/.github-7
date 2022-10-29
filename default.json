@@ -34,16 +34,6 @@
   "python": {
     "addLabels": ["python"]
   },
-  "packageRules": [
-    {
-      "matchDepTypes": ["devDependencies"],
-      "semanticCommitScope": "deps-dev"
-    },
-    {
-      "matchPaths": ["action.yaml"],
-      "semanticCommitType": "fix"
-    }
-  ],
   "platformCommit": true,
   "postUpdateOptions": ["yarnDedupeHighest"],
   "prConcurrentLimit": 1,
