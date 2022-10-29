@@ -19,7 +19,6 @@
   "pre-commit": {
     "enabled": true
   },
-  "platformCommit": true,
   "prConcurrentLimit": 1,
   "prHourlyLimit": 0,
   "semanticCommitScope": "deps"
