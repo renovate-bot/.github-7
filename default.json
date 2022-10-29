@@ -20,9 +20,7 @@
     "enabled": true
   },
   "platformCommit": true,
-  "postUpdateOptions": ["yarnDedupeHighest"],
   "prConcurrentLimit": 1,
   "prHourlyLimit": 0,
-  "rangeStrategy": "bump",
   "semanticCommitScope": "deps"
 }
