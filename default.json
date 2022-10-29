@@ -12,6 +12,5 @@
   "commitMessageExtra": "to {{#if isPinDigest}}{{{newDigestShort}}}{{else}}{{#if isSingleVersion}}{{prettyNewVersion}}{{else}}{{#if newValue}}{{{newValue}}}{{else}}{{{newDigestShort}}}{{/if}}{{/if}}{{/if}}",
   "dependencyDashboardApproval": true,
   "prConcurrentLimit": 1,
-  "prHourlyLimit": 0,
-  "semanticCommitScope": "deps"
+  "prHourlyLimit": 0
 }
