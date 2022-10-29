@@ -8,6 +8,5 @@
     "npm:unpublishSafe"
   ],
   "dependencyDashboardApproval": true,
-  "prConcurrentLimit": 1,
   "prHourlyLimit": 0
 }
